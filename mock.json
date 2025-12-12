@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mock-qwen27b",
+    "model": {
+      "name": "Qwen2-7B",
+      "sha": "123456",
+      "precision": "fp16",
+      "type": "chat",
+      "architecture": "transformer",
+      "average_score": 0.81,
+      "has_chat_template": false
+    },
+    "evaluations": {
+      "multifin": { "value": 60.2, "normalized_score": 80.1 },
+      "qa":       { "value": 55.1, "normalized_score": 75.3 },
+      "fns":      { "value": 44.2, "normalized_score": 66.8 },
+      "finnum":   { "value": 71.0, "normalized_score": 82.3 },
+      "fintext":  { "value": 50.3, "normalized_score": 70.5 },
+      "greek_average": 0.65
+    },
+    "features": {
+      "is_not_available_on_hub": false,
+      "is_merged": false,
+      "is_moe": false,
+      "is_flagged": false,
+      "is_highlighted_by_maintainer": false
+    },
+    "metadata": {
+      "params_billions": 7,
+      "hub_license": "Apache-2.0",
+      "upload_date": "2024-01-01",
+      "submission_date": "2024-01-02",
+      "generation": "gen1",
+      "base_model": "Qwen2",
+      "co2_cost": 3.2
+    }
+  }
+]
