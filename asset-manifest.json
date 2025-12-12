@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/LLM-Evalutaion-Leadboard/static/js/main.e654a275.js",
+    "main.js": "/LLM-Evalutaion-Leadboard/static/js/main.147a1dee.js",
     "static/js/441.554f27a0.chunk.js": "/LLM-Evalutaion-Leadboard/static/js/441.554f27a0.chunk.js",
     "static/js/639.825ae1dd.chunk.js": "/LLM-Evalutaion-Leadboard/static/js/639.825ae1dd.chunk.js",
     "static/js/410.fc29cb97.chunk.js": "/LLM-Evalutaion-Leadboard/static/js/410.fc29cb97.chunk.js",
     "index.html": "/LLM-Evalutaion-Leadboard/index.html",
-    "main.e654a275.js.map": "/LLM-Evalutaion-Leadboard/static/js/main.e654a275.js.map",
+    "main.147a1dee.js.map": "/LLM-Evalutaion-Leadboard/static/js/main.147a1dee.js.map",
     "441.554f27a0.chunk.js.map": "/LLM-Evalutaion-Leadboard/static/js/441.554f27a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e654a275.js"
+    "static/js/main.147a1dee.js"
   ]
 }
