@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_finllm_leaderboard=self.webpackChunkopen_finllm_leaderboard||[]).push([[410],{410:()=>{}}]);
